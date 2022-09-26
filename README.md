@@ -17,4 +17,4 @@ For run this project you should do the following steps:
 
 5- after run project you can access to in memory database with url [databaseUrl](http://localhost:8089/api/h2-console/)
 
-
+6- for test services functions you can run test files 
